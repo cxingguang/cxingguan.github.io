@@ -1,4 +1,4 @@
-Hello everyone! Welcome to my channel!
+Hello everyone! Welcome!
 ======
 I am a primary school student in the Department of Artificial Intelligence of Laiwu Institute of Technology. I actively assisted in various activities organized by the school and achieved good results
 
