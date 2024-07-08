@@ -1,4 +1,6 @@
-I am a primary school student in the Department of Artificial Intelligence of Laiwu Institute of Technology. I actively assisted in various activities organized by the school and achieved good results.
+Hello everyone! Welcome to my channel!
+======
+I am a primary school student in the Department of Artificial Intelligence of Laiwu Institute of Technology. I actively assisted in various activities organized by the school and achieved good results
 
 educate
 ======
