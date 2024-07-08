@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello everyone! Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-Hello everyone! Welcome!
 ======
 I am a primary school student in the Department of Artificial Intelligence of Laiwu Institute of Technology. I actively assisted in various activities organized by the school and achieved good results
 
