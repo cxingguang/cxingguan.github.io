@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I am a primary school student in the Department of Artificial Intelligence of Laiwu Institute of Technology. I actively assisted in various activities organized by the school and achieved good results.
 
 educate
