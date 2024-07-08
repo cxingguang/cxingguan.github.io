@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Hello everyone! Welcome to China!"
 author_profile: true
 redirect_from: 
