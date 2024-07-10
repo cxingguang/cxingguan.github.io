@@ -1,4 +1,5 @@
 ---
+permalink:/
 title: "Hello everyone! Welcome to China!"
 author_profile: true
 redirect_from: 
@@ -19,6 +20,7 @@ work experience
 2. Fall 2021: Party member volunteers participate in basketball testing, conduct testing in a timely manner and upload information
 3. Fall 2023: Participate in guiding the school to organize the work of departments
 4. Spring 2024: Take the college entrance examination
+
 
 Soup
 ------
