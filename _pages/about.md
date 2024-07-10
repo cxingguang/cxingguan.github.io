@@ -1,5 +1,6 @@
 ---
-title: "Hello everyone! Welcome to China!"
+permalink: /
+title: "Hello everyone! Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
